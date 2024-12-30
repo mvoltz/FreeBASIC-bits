@@ -1,0 +1,2 @@
+# FreeBASIC-bits
+Exploring FreeBASIC
