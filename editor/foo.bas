@@ -14,12 +14,13 @@ using FB '' use the FB namespace
 dim k as string
 dim c as ulong
 
-c = color()
 
-ScreenRes 960, 540, 32
-Width 960\8, 540\16
-Color RGB(248, 248, 242), RGB(40, 42, 54)
-Cls
+screenres 960, 540, 32
+width 960\8, 540\16
+color RGB(248, 248, 242), RGB(40, 42, 54)
+cls
+c = color()
+print "Right-Shift + ESCAPE to exit"
 print "Console colors:"
 print "Foreground: " & LoWord(c)
 print "Background: " & HiWord(c)
