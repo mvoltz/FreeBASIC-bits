@@ -1,0 +1,13 @@
+'phrases
+const as string phrase_ok="OK"
+const as string phrase_cancel="Cancel"
+const as string phrase_retry="Retry"
+const as string phrase_ignore="Ignore"
+const as string phrase_yes="Yes"
+const as string phrase_no="No"
+const as string phrase_path="Path"
+const as string phrase_file="File"
+const as string phrase_load="Load"
+const as string phrase_save="Save"
+const as string phrase_error="Error"
+const as string phrase_fileaccessdenied="file access denied"

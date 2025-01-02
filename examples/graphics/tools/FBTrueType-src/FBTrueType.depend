@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1474935351 source:d:\codeblocks\joshy\fbtruetype-src\fbtruetype.c
+	"FBTrueType.h"
+
+1474935537 d:\codeblocks\joshy\fbtruetype-src\fbtruetype.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb_truetype.h"
+
+1474916024 d:\codeblocks\joshy\fbtruetype-src\stb_truetype.h
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<memory.h>
+
+1474989948 source:g:\laufwerkd\codeblocks\joshy\fbtruetype-src\fbtruetype.c
+	"FBTrueType.h"
+
+1474935538 g:\laufwerkd\codeblocks\joshy\fbtruetype-src\fbtruetype.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	"stb_truetype.h"
+
+1474916024 g:\laufwerkd\codeblocks\joshy\fbtruetype-src\stb_truetype.h
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<memory.h>
+

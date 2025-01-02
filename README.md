@@ -1,6 +1,6 @@
 # FreeBASIC-bits
-Exploring FreeBASIC
+Exploring & learning FreeBASIC.  This is mostly random.
 
-If this helps you, great!  The intention is to record what I learn.
+If this helps you somehow, great! 
 
-There is no specific objective to create something consumable, but if that's how it turns out, that's great too.
+There is no objective to create something usable.
